@@ -41,7 +41,7 @@ The Brewed Awakening project was built using a combination of technologies, incl
 
 <p align="center"><img src="Documentation/Cloud Architecture.png"/></p>
 
-### Visualisation Results with Grafana
+### Data Visualisation with Grafana
 
 Below are a few screenshots of the type of dashboards we were able to achieve with the data in our redshift database, as well as CloudWatch logs:
 
