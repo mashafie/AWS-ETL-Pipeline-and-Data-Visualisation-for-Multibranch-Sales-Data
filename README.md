@@ -538,12 +538,3 @@ We preferred to use Adminer SQL for our Brewed Awakening project, over other dat
 * [Sadat Awuma](https://github.com/SadCodeBleach) 
 * [Saleem Mustafa](https://github.com/sm321000)
 * [Shekinah Kimvuidi](https://github.com/shekinah001)
-
-
-## Acknowledgments
-
-Special Thanks, Inspiration, code snippets, etc.
-* [Generation UK Program](https://uk.generation.org/)
-* Our Mentors
-* [W3 Schools](https://www.w3schools.com/)
-* [Trello](https://trello.com/)
